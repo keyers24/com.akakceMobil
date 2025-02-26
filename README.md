@@ -1,7 +1,7 @@
 # Akakce Mobile Automation
 ## Project Overview
  **Pre Conditions**: It works with driver activity. you need to install and run the relevant apk on the phone.
-  note : Automatic installation of the apk with getAbsolutePath method has been tried and there is no stable apk on the web.
+- **Note**: Automatic installation of the apk with getAbsolutePath method has been tried and there is no stable apk on the web.
 - **Page Object Model (POM)**: The framework is built using the Page Object Model pattern for better reusability and maintainability.
 - **Technologies Used**:
   - Java 18.0.2
