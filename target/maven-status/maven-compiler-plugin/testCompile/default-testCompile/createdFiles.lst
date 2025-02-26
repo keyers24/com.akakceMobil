@@ -1,0 +1,3 @@
+pages\searchPage.class
+stepDefinitions\searchStepDefinitions.class
+pages\basePage.class
